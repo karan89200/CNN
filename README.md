@@ -3,6 +3,9 @@
 This is a web application that utilizes Convolutional Neural Networks (CNN) for edge detection on images. Built with Streamlit, the app allows users to upload an image and apply various edge detection filters, showcasing the power of CNNs in real-time image processing.
 
 ## LIVE AT : https://edgedetector.streamlit.app/
+
+
+
 ## Features:
 - **Image Upload:** Upload your image via the user-friendly interface.
 - **Edge Detection Filters:** Apply up to 15 different edge detection filters to your image and see the results instantly.
